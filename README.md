@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-Deployed Application:
+Deployed Application: https://daliangrullon.github.io/work-day-scheduler/
 
 <br>
 
